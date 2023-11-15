@@ -1,1 +1,1 @@
-# Systems-Analysis-and-Design
+Introduces the fundamentals of object-oriented analysis and design, including experience with a CASE tool. Topics include requirements determination, feasibility analysis, modeling with Unified Modeling Language (UML) and data dictionary construction, data modeling and normalization, user interface requirements specification, and information security procedures. Development of problem and design specifications for an information systems project is required. Develops team skills, written and oral communication skills.# Systems-Analysis-and-Design
